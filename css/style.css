@@ -1,0 +1,81 @@
+.header{
+    height: 100px;
+    background-color: red;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+.container{
+    overflow: hidden;
+    
+}
+.blog{
+    height: 200px;
+    background-color: aqua ;
+    width: 60%;
+    float: left;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 80px;
+}
+.contact{
+    height: 200px;
+    background-color: forestgreen;
+    width: 40%;
+    float: right;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 80px;
+    color: white;
+}
+ 
+.wrapper{
+     overflow: hidden;
+}
+.green{
+    height: 150px;
+    background-color: green;
+    width: 33.33%;
+    float: left;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 80px;
+    color: white;
+}
+.sky{
+    height: 150px;
+     background-color: skyblue;
+     width: 33.33%;
+     float: left;
+     text-align: center;
+    font-family: sans-serif;
+    padding-top: 80px;
+    color: black;
+}
+.black{
+    height: 150px;
+    background-color: black;
+    width: 33.33%;
+   float: left;
+   text-align: center;
+    font-family: sans-serif;
+    padding-top: 80px;
+    color: white;
+}
+.map iframe{
+     width: 100%;
+     height: 400px;
+}
+.video iframe{
+    width: 32.33%;
+    height: 280px;
+}
+.footer{
+    height: 100px;
+    background-color: blue;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 50px;
+    color: white;
+     
+}
